@@ -1,6 +1,6 @@
 # My super amazing title
 
-Authored by: Francis
+Authored by: Francis and many other pople.
 
 Introduction
 
