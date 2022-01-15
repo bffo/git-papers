@@ -11,5 +11,5 @@ The relevance and usefulness of Open Science at the Neuro are manifold, and they
 There are a number of these documents for many fields of science created worldwide for Open Science, and our task here is to assemble what scientists at the Neuro and like-minded institutes will likely need to engage and deliver using the best Open Science practices.
 
 
-from Smith (2009).
+from Smith (2009). and Ouellette (2005)
 
